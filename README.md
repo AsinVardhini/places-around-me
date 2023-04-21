@@ -190,7 +190,7 @@ Golden Quadrilateral.
 
 ```
 ## Output:
-![map](https://user-images.githubusercontent.com/119417735/233532108-a3db69f7-c07b-4848-92dd-0a25ea14a20e.png)
+![2023-04-21](https://user-images.githubusercontent.com/119417735/233533218-578b98c1-316f-4476-8dfe-ae2670cac513.png)
 
 ![temple](https://user-images.githubusercontent.com/119417735/233532346-e7cda7a0-4b80-4896-8811-68df5034211d.png)
 
@@ -201,6 +201,8 @@ Golden Quadrilateral.
 ![bus](https://user-images.githubusercontent.com/119417735/233532861-bfc12704-5850-49d8-a4a5-a6d1dbd5ec2f.png)
 
 ![fort](https://user-images.githubusercontent.com/119417735/233532979-fe9310a7-c6f7-4d5b-88bd-a3f07f0f8b89.png)
+
+![2023-04-21 (7)](https://user-images.githubusercontent.com/119417735/233534124-6d4b0b7a-2df7-4eb2-9b2b-442a29355a7e.png)
 
 ![2023-04-21 (6)](https://user-images.githubusercontent.com/119417735/233533084-9a38af54-0e58-4a86-91cc-0b63d7eef25f.png)
 

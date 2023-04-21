@@ -5,9 +5,13 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the github repository into Theia IDE.
 ### Step 2:
-
+Create a new Django project.
+### Step 3:
+Write the needed HTML code.
+### Step 4:
+Run the Django server and execute the HTML files.
 ## Code:
 ```
 map.html
@@ -186,7 +190,19 @@ Golden Quadrilateral.
 
 ```
 ## Output:
-Include your output screenshot here
+![map](https://user-images.githubusercontent.com/119417735/233532108-a3db69f7-c07b-4848-92dd-0a25ea14a20e.png)
+
+![temple](https://user-images.githubusercontent.com/119417735/233532346-e7cda7a0-4b80-4896-8811-68df5034211d.png)
+
+![vit](https://user-images.githubusercontent.com/119417735/233532496-bccc0194-9e78-4947-b55f-63f12c055b90.png)
+
+![cmc](https://user-images.githubusercontent.com/119417735/233532665-d5bacf11-aed5-4741-a197-d663919bedf3.png)
+
+![bus](https://user-images.githubusercontent.com/119417735/233532861-bfc12704-5850-49d8-a4a5-a6d1dbd5ec2f.png)
+
+![fort](https://user-images.githubusercontent.com/119417735/233532979-fe9310a7-c6f7-4d5b-88bd-a3f07f0f8b89.png)
+
+![2023-04-21 (6)](https://user-images.githubusercontent.com/119417735/233533084-9a38af54-0e58-4a86-91cc-0b63d7eef25f.png)
 
 ## Result:
-Write your result
+Thus A website to display details about the places in map is successfully executed and displayed.
